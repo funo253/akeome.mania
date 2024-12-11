@@ -7,14 +7,15 @@ body {
     padding: 20px;
 }
 
-/* h1要素*/
-h1 {{font-family: ビルの谷間と高架下　フリー版;}
-  color: #6F1E11
-  border-bottom: 6px double #000;
+/* h1要素 */
+h1 {
+    font-family: "ビルの谷間と高架下 フリー版"; /* フォント名を正しく記述 */
+    color: #6F1E11; /* 文字色を茶色に設定 */
+    border-bottom: 6px double #000; /* 二重線の下線を設定 */
 }
 
+/* 段落要素 (p) のスタイル */
 p {
-    #example2 {
-  color: #AF8742
+    color: #AF8742; /* 文字色を指定 */
 }
-}
+
