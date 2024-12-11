@@ -1,11 +1,15 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
-  color: #333;
-  text-align: center;
-  padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; /* 背景色を淡い青色に */
+    color: #333; /* 文字色をグレーに */
+    text-align: center;
+    padding: 20px;
 }
 
 h1 {
-  color: #0078D7;
+    color: #0078D7; /* 見出しを青色に */
+}
+
+p {
+    font-size: 1.2rem; /* 段落の文字を少し大きく */
 }
