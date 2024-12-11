@@ -14,7 +14,7 @@ h1 {
 }
 
 p {
-    color: #AF8742; /* 文字色を茶色に設定 */
-    { font-size: 17px}
-    border-bottom: 6px double #000;
+    #example2 {
+  color: #AF8742
+}
 }
