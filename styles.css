@@ -7,10 +7,9 @@ body {
     padding: 20px;
 }
 
-/* h1要素の文字色を変更 */
-h1 {
-    color: #6F1E11; /* 文字色を茶色に設定 */
-    border-bottom: 6px double #000;
+/* h1要素*/
+h1 {{font-family: ビルの谷間と高架下　フリー版;}
+  border-bottom: 6px double #000;
 }
 
 p {
