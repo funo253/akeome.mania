@@ -12,3 +12,8 @@ h1 {
     color: #6F1E11; /* 文字色を茶色に設定 */
     border-bottom: 6px double #000;
 }
+
+p {
+    color: #AF8742; /* 文字色を茶色に設定 */
+    border-bottom: 6px double #000;
+}
