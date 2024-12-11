@@ -1,15 +1,13 @@
+/* ページ全体の背景を白に設定 */
 body {
-    font-family: Arial, sans-serif;
-    color: #333; /* 文字色をグレーに */
-    text-align: center;
+    background-color: #FFFFFF; /* 背景色を白に */
+    color: #333; /* 文字のデフォルト色をグレーに */
+    font-family: Arial, sans-serif; /* フォントを設定 */
+    text-align: center; /* コンテンツを中央揃え */
     padding: 20px;
 }
 
+/* h1要素（こんにちは）の文字色を変更 */
 h1 {
-  border-bottom: 6px double #000;
-}
-}
-
-p {
-    font-size: 1.2rem; /* 段落の文字を少し大きく */
+    color: #6F1E11; /* 文字色を茶色に設定 */
 }
